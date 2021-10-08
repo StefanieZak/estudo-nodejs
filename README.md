@@ -1,24 +1,29 @@
 # estudo-nodejs
 
 ## Project setup
+
+### /estudo-nodejs:
 ```
-yarn install
+yarn install or npm install
 ```
 
-### Compiles and hot-reloads for development
+### /estudo-nodejs/api:
 ```
-yarn serve
+yarn install or npm install
+```
+
+
+### Compiles and hot-reloads for development
+### /estudo-nodejs:
+```
+yarn dev or npm run dev
+```
+### /estudo-nodejs/api:
+```
+yarn start or npm run start
 ```
 
 ### Compiles and minifies for production
 ```
-yarn build
+yarn build or npm run build
 ```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
