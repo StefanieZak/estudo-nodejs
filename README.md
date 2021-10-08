@@ -1,5 +1,7 @@
 # estudo-nodejs
 
+Projeto realizado para estudo de nodejs e treinamento de typescript.
+
 ## Project setup
 
 ### /estudo-nodejs:
